@@ -1,0 +1,33 @@
+.an{
+	font-size:1.5vw;
+	color:white;
+	background-color:#008CAB;
+	margin-right:1vw;
+	padding:.2vw 1vw;
+}
+
+.an:hover
+{
+	color:yellow;
+}
+.dv
+{
+	text-align: center;
+	margin: 4vw;
+}
+
+.lah
+{
+	font-size:2.5vw;
+	font-weigth:bold;
+	font-family:lucida calligraphy;
+}
+.la
+{
+	font-size:1.6vw;
+}
+span
+{
+	color:red;
+	font-size:1.6vw;
+}
